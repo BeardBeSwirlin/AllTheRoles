@@ -1,6 +1,14 @@
 {
   "hats": [
     {
+      "author": "MKB",
+      "condition": "None",
+      "name": "Freeze Mr Pres",
+      "package": "My hats MKB",
+      "reshasha": "22b37ff31ac2d663428dd17216b89a47",
+      "resource": "Besthat.png"
+    },
+    {
       "author": "NotLeo",
       "adaptive": true,
       "climbresource": "BunnyBrawl_adaptive_climb.png",
